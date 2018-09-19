@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SMD Assignment 2</string>
+    <string name="rollNo">13L-4294</string>
+    <string name="relativeLayout">Relative Layout</string>
+    <string name="constraintLayout">Constraint Layout</string>
+    <string name="email">Enter Email Here</string>
+    <string name="password">Enter Password Here</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="tnc">Terms and Conditions</string>
+
+    <string name="register">Register!</string>
+
+</resources>
